@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"strings"
+	"sync"
 )
 
 type rss_feed struct {
@@ -42,10 +43,13 @@ type Episode struct {
 func main() {
 	rss_file := os.Args[1]
 	episodes := parse_rss_file(rss_file)
+	var wait sync.WaitGroup
 
 	for _, episode := range episodes {
-		go download_wrapper(episode)
+		wait.Add(1)
+		go download_wrapper(episode, &wait)
 	}
+	wait.Wait()
 }
 
 func parse_rss_file(rss_file string) []Episode {
@@ -74,14 +78,15 @@ func parse_rss_file(rss_file string) []Episode {
 	return episode_slice
 }
 
-func download_wrapper(episode Episode) {
-	err := download_episode(episode)
+func download_wrapper(episode Episode, wait *sync.WaitGroup) {
+	err := download_episode(episode, wait)
 	if err != nil {
 		fmt.Println(err)
 	}
 }
 
-func download_episode(episode Episode) error {
+func download_episode(episode Episode, wait *sync.WaitGroup) error {
+	defer wait.Done()
 	resp, err := http.Get(episode.url)
 	if err != nil {
 		return err
