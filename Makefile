@@ -9,3 +9,5 @@ build:
 	$(GOBUILD) -o $(BINARY_NAME) $(BUILDPATH)
 install:
 	$(GOBUILD) -o $(GOPATH)/bin/$(BINARY_NAME) $(BUILDPATH)
+debug_build:
+	$(GOBUILD) -o $(BINARY_NAME) -gcflags="all=-N -l" $(BUILDPATH)
