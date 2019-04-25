@@ -1,0 +1,11 @@
+GOCMD=go
+GOBUILD=$(GOCMD) build
+GOTEST=$(GOCMD) test
+GOINSTALL=$(GOCMD) build -o $(GOPATH)/bin/
+GOGET=$(GOCMD) get
+BINARY_NAME=Archiver
+WINDOWS_BINARY_NAME=Archiver.exe
+build:
+	$(GOBUILD) -o $(BINARY_NAME) 
+install:
+	$(GOINSTALL)$(BINARY_NAME)

@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://feeds.megaphone.fm/thebrightsessions" rel="self" type="application/rss+xml"/>
+    <title>The Bright Sessions</title>
+    <link>http://thebrightsessions.com</link>
+    <language>en</language>
+    <copyright>Lauren Shippen</copyright>
+    <description>Start with episode 01. Dr. Bright provides therapy for the strange and unusual;  their sessions have been recorded for research purposes. Visit www.thebrightsessions.com for more information and additional content. Created by Lauren Shippen</description>
+    <image>
+      <url>https://static.megaphone.fm/podcasts/41a78862-5627-11e9-832e-ffcbe9c7eac9/image/TBS_S4_LogoiTUNES.jpg</url>
+      <title>The Bright Sessions</title>
+      <link>http://thebrightsessions.com</link>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Atypical Artists</itunes:author>
+    <itunes:summary>Start with episode 01. Dr. Bright provides therapy for the strange and unusual;  their sessions have been recorded for research purposes. Visit www.thebrightsessions.com for more information and additional content. Created by Lauren Shippen</itunes:summary>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email>thebrightsessions@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://static.megaphone.fm/podcasts/41a78862-5627-11e9-832e-ffcbe9c7eac9/image/TBS_S4_LogoiTUNES.jpg"/>
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts"/>
+    </itunes:category>
+    <item>
+      <title>Trailer - The AM Archives</title>
+      <description>A new series, only on Luminary. Coming April 23rd. luminarypodcasts.com</description>
+      <pubDate>Mon, 22 Apr 2019 17:10:40 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/cc23af4e-6521-11e9-83d8-9ba3bd8a32a7/image/uploads_2F1555953086469-3m8dvcmh92b-2e8fef2c2189dd70bd4f93989c2b21f6_2FThe%2BAM%2BArchives%2BBasic%2BLogo.png"/>
+      <itunes:title>Trailer - The AM Archives</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>A new series, only on Luminary.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[A new series, only on Luminary. Coming April 23rd. luminarypodcasts.com]]>
+      </itunes:summary>
+      <itunes:duration>59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[cc23af4e-6521-11e9-83d8-9ba3bd8a32a7]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3298848108.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #1-A-5</title>
+      <description>*This episode contains discussion of infant death. Listener discretion advised* Dr. Bright gets a visit from her oldest Atypical friend. Visit luminary.link/archives.</description>
+      <pubDate>Mon, 18 Mar 2019 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/42990be2-5627-11e9-853f-1794f5c234a8/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #1-A-5</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>*This episode contains discussion of infant death. Listener discretion advised* Dr. Bright gets a visit from her oldest Atypical friend.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[*This episode contains discussion of infant death. Listener discretion advised* Dr. Bright gets a visit from her oldest Atypical friend. Visit luminary.link/archives.]]>
+      </itunes:summary>
+      <itunes:duration>1288</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[a434b76b985f46b3b3ca16948c44577e]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM8975060067.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #6-C-1</title>
+      <description>Dr. Bright has a session with a patient feeling a little...grey. Written by Aron Brown. Performed by Julia Morizawa &amp; Aron Brown.</description>
+      <pubDate>Mon, 18 Feb 2019 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/42f007ee-5627-11e9-853f-cba371904d7f/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #6-C-1</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Dr. Bright has a session with a patient feeling a little...grey. Written by Aron Brown. Performed by Julia Morizawa &amp; Aron Brown.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Dr. Bright has a session with a patient feeling a little...grey. Written by Aron Brown. Performed by Julia Morizawa & Aron Brown.]]>
+      </itunes:summary>
+      <itunes:duration>1970</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[84f5ac2c95ba4d70acbb7e6ad8c14a95]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7306298834.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #2-B-4</title>
+      <description>Dr. Bright finally has a reason to use her fire extinguisher. Written and sound designed by Mischa Stanton. Performed by Julia Morizawa and Sammi Lappin. </description>
+      <pubDate>Mon, 21 Jan 2019 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/433ee094-5627-11e9-853f-fbe81002b4bc/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #2-B-4</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Dr. Bright finally has a reason to use her fire extinguisher. Written and sound designed by Mischa Stanton. Performed by Julia Morizawa and Sammi Lappin. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Dr. Bright finally has a reason to use her fire extinguisher. Written and sound designed by Mischa Stanton. Performed by Julia Morizawa and Sammi Lappin. ]]>
+      </itunes:summary>
+      <itunes:duration>1855</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[9f7649ca07ad4baf83d1fd527aa72798]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM1257286548.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Arcs - New Podcast from Atypical Artists!</title>
+      <description>Lauren Shippen, Briggon Snow, Jordan Cope, and Nathan Stanz are in a new actual-play D&amp;D podcast. Go to https://twitter.com/arcspod to listen now and follow @atypicalartists on twitter!</description>
+      <pubDate>Thu, 10 Jan 2019 16:19:19 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4393d2f2-5627-11e9-853f-f308fa662e08/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Arcs - New Podcast from Atypical Artists!</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Lauren Shippen, Briggon Snow, Jordan Cope, and Nathan Stanz are in a new actual-play D&amp;D podcast. Go to https://twitter.com/arcspod to listen now and follow @atypicalartists on twitter!</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Lauren Shippen, Briggon Snow, Jordan Cope, and Nathan Stanz are in a new actual-play D&D podcast. Go to https://twitter.com/arcspod to listen now and follow @atypicalartists on twitter!]]>
+      </itunes:summary>
+      <itunes:duration>172</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[22f9587dec534075b3aeadc30813c3b1]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2957984282.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #4-A-5</title>
+      <description>Dr. Bright makes a house call. Written by Gabriel Urbina. Performed by Julia Morizawa and Zach Valenti. Sound designed by Mischa Stanton. </description>
+      <pubDate>Mon, 17 Dec 2018 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/43dee850-5627-11e9-853f-2373c01b2e71/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #4-A-5</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Dr. Bright makes a house call. Written by Gabriel Urbina. Performed by Julia Morizawa and Zach Valenti. Sound designed by Mischa Stanton. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Dr. Bright makes a house call. Written by Gabriel Urbina. Performed by Julia Morizawa and Zach Valenti. Sound designed by Mischa Stanton. ]]>
+      </itunes:summary>
+      <itunes:duration>1863</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e323b509fa824a0cb0637449bf4c7757]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5964400907.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #9-A-2</title>
+      <description>Dr. Bright gets a visit from an old patient with an unreliable ability. Written by Caitlin Schneiderhan. Performed by Julia Morizawa and Sean T. Krishnan. </description>
+      <pubDate>Mon, 19 Nov 2018 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4427b3d2-5627-11e9-853f-a335a4e899d4/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #9-A-2</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Dr. Bright gets a visit from an old patient with an unreliable ability. Written by Caitlin Schneiderhan. Performed by Julia Morizawa and Sean T. Krishnan.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Dr. Bright gets a visit from an old patient with an unreliable ability. Written by Caitlin Schneiderhan. Performed by Julia Morizawa and Sean T. Krishnan. ]]>
+      </itunes:summary>
+      <itunes:duration>1139</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e50cc9590bdd4b678a29e5eaecd2d9ae]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9566067245.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #7-B-3</title>
+      <description>A younger patient causes some problems with Dr. Bright's session recordings. Written by Eli Barraza. Performed by Julia Morizawa &amp; Eli Barraza. .</description>
+      <pubDate>Mon, 15 Oct 2018 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/44bf40bc-5627-11e9-853f-8762d6dc8fda/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #7-B-3</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>A younger patient causes some problems with Dr. Bright's session recordings. Written by Eli Barraza. Performed by Julia Morizawa &amp; Eli Barraza. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[A younger patient causes some problems with Dr. Bright's session recordings. Written by Eli Barraza. Performed by Julia Morizawa & Eli Barraza. .]]>
+      </itunes:summary>
+      <itunes:duration>1104</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5e725b1790dc4979ad419d06cb7fbe27]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5206535891.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #8-C-6</title>
+      <description>Dr. Bright sometimes has a hard time seeing one her less frequent patients. Written by Jordan Cope &amp; Briggon Snow. Performed by Julia Morizawa &amp; Michael Felix.</description>
+      <pubDate>Mon, 17 Sep 2018 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/45005bd8-5627-11e9-853f-33b5960f375a/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #8-C-6</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Dr. Bright sometimes has a hard time seeing one her less frequent patients. Written by Jordan Cope &amp; Briggon Snow. Performed by Julia Morizawa &amp; Michael Felix.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Dr. Bright sometimes has a hard time seeing one her less frequent patients. Written by Jordan Cope & Briggon Snow. Performed by Julia Morizawa & Michael Felix.]]>
+      </itunes:summary>
+      <itunes:duration>1960</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c9e014ecae8048faa13251f453d8e26d]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4463803912.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Introducing Wolverine: The Long Night</title>
+      <description>We’re bringing you something special this week: a preview of Marvel’s first scripted podcast, Wolverine: The Long Night. The first episodes are out right now, free, wherever you get podcasts. Subscribe to Wolverine: The Long Night in Apple Podcasts: https://itunes.apple.com/us/podcast/wolverine-the-long-night/id1343499710?mt=2</description>
+      <pubDate>Wed, 12 Sep 2018 07:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/454f51b6-5627-11e9-853f-1356898ef511/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Introducing Wolverine: The Long Night</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>We’re bringing you something special this week: a preview of Marvel’s first scripted podcast, Wolverine: The Long Night. The first episodes are out right now, free, wherever you get podcasts. Subscribe to Wolverine: The Long Night in Apple...</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[We’re bringing you something special this week: a preview of Marvel’s first scripted podcast, Wolverine: The Long Night. The first episodes are out right now, free, wherever you get podcasts. Subscribe to Wolverine: The Long Night in Apple Podcasts: https://itunes.apple.com/us/podcast/wolverine-the-long-night/id1343499710?mt=2]]>
+      </itunes:summary>
+      <itunes:duration>277</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[db66ac940ed54a6e8339eb6a4e860079]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM1318312637.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #3-B-2</title>
+      <description>Dr. Bright conducts a therapy session over Skype. Written by Anna Lore. Performed by Julia Morizawa and Shelby Young. </description>
+      <pubDate>Mon, 20 Aug 2018 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4593bd2e-5627-11e9-853f-c7bfeef4c560/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #3-B-2</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Dr. Bright conducts a therapy session over Skype. Written by Anna Lore. Performed by Julia Morizawa and Shelby Young. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Dr. Bright conducts a therapy session over Skype. Written by Anna Lore. Performed by Julia Morizawa and Shelby Young. ]]>
+      </itunes:summary>
+      <itunes:duration>1284</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[985f994b597c4b249c9f04406596c188]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM1961426397.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Bright Sides - Patient #10-E-2</title>
+      <description>*Please be advised that this episode contains brief mentions of drug abuse, suicidal thoughts, and child abuse* Written by Julia Morizawa. Performed by Julia Morizawa &amp; Jasika Nicole.</description>
+      <pubDate>Mon, 16 Jul 2018 06:55:23 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/45e50c38-5627-11e9-853f-3b4eb05ad8da/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Bright Sides - Patient #10-E-2</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>*Please be advised that this episode contains brief mentions of drug abuse, suicidal thoughts, and child abuse* Written by Julia Morizawa. Performed by Julia Morizawa &amp; Jasika Nicole. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[*Please be advised that this episode contains brief mentions of drug abuse, suicidal thoughts, and child abuse* Written by Julia Morizawa. Performed by Julia Morizawa & Jasika Nicole.]]>
+      </itunes:summary>
+      <itunes:duration>3094</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e329fd67cc0443059515910fb02b338f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2342477539.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>416 - Dr. Bright</title>
+      <description>Season 4, Episode 16 - Dr. Bright packs up her office. </description>
+      <pubDate>Wed, 13 Jun 2018 04:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4635da0a-5627-11e9-853f-531442c1d8bb/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Dr. Bright</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 16 - Dr. Bright packs up her office. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 16 - Dr. Bright packs up her office. ]]>
+      </itunes:summary>
+      <itunes:duration>3142</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[d369c7c4ce264d32ad53f0931cb8a1d4]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9729347061.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>415 - The AM</title>
+      <description>Season 4, Episode 15 - Discoveries and changes are made.
+</description>
+      <pubDate>Wed, 30 May 2018 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4680c1a0-5627-11e9-853f-874aa9beb893/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The AM</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 15 - Discoveries and changes are made.  </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 15 - Discoveries and changes are made.
+]]>
+      </itunes:summary>
+      <itunes:duration>2304</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3068608cc4a543bda17a7e42b9d379f3]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9757373411.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>414 - Telephone 3</title>
+      <description>Season 4, Episode 14 - Phone conversations from the evening of April 10th.</description>
+      <pubDate>Wed, 16 May 2018 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/46f059fc-5627-11e9-853f-d38c7b843cbf/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Telephone 3</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 14 - Phone conversations from the evening of April 10th.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 14 - Phone conversations from the evening of April 10th.]]>
+      </itunes:summary>
+      <itunes:duration>1477</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[72efeee142fb5d92056e88656a97287e]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM6052443420.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>413 - Sam</title>
+      <description>Season 4, Episode 13 - *This episode depicts anxiety attacks and emotional distress. Listener discretion is advised.* Sam's past and present catch up with her. </description>
+      <pubDate>Wed, 02 May 2018 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/47417ee0-5627-11e9-853f-53f2ed4a18fd/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Sam</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 13 - *This episode depicts anxiety attacks and emotional distress. Listener discretion is advised.* Sam's past and present catch up with her. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 13 - *This episode depicts anxiety attacks and emotional distress. Listener discretion is advised.* Sam's past and present catch up with her. ]]>
+      </itunes:summary>
+      <itunes:duration>2288</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3e4e1d7093428d2240ebba9c5bd8af23]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2964522445.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>412- Caleb</title>
+      <description>Season 4, Episode 12 - Caleb goes looking for some advice.</description>
+      <pubDate>Wed, 18 Apr 2018 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/47b200de-5627-11e9-853f-3b665cbdec60/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Caleb</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 12 - Caleb goes looking for some advice.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 12 - Caleb goes looking for some advice.]]>
+      </itunes:summary>
+      <itunes:duration>1771</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[9699250aadaa2a7aaca6e060f6e2bcd9]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5250958961.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>411 - Wadsworth</title>
+      <description>Season 4, Episode 11 - Ellie has a strange day.</description>
+      <pubDate>Wed, 04 Apr 2018 09:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/482f0ea8-5627-11e9-853f-7b9f339ad44b/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Wadsworth</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 11 - Ellie has a strange day.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 11 - Ellie has a strange day.]]>
+      </itunes:summary>
+      <itunes:duration>1971</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[a4bcea6544db251755816cf15ded7471]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5849820607.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>410 - Rose</title>
+      <description>Season 4, Episode 10 - Rose falls asleep and goes for a walk.
+
+ 
+
+Stream on Spotify: https://open.spotify.com/album/6PPxMVN8jPxdH6Jn3lR65y
+
+Get on Amazon Music: https://www.amazon.com/Episode-Cast-Recording-Bright-Sessions/dp/B07BJB57QQ/ref=sr_1_1?ie=UTF8&amp;qid=1521605524&amp;sr=8-1&amp;keywords=the+bright+sessions+cast
+
+Listen on Google Play: https://play.google.com/store/music/album/The_Bright_Sessions_Cast_Episode_50_Cast_Recording?id=Bbwmykccksve3wwookr2rwhjf5a </description>
+      <pubDate>Wed, 21 Mar 2018 04:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/48916756-5627-11e9-853f-077f08bd10e4/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Rose</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 10 - Rose falls asleep and goes for a walk.   Stream on Spotify: https://open.spotify.com/album/6PPxMVN8jPxdH6Jn3lR65y Get on Amazon...</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 10 - Rose falls asleep and goes for a walk.
+
+ 
+
+Stream on Spotify: https://open.spotify.com/album/6PPxMVN8jPxdH6Jn3lR65y
+
+Get on Amazon Music: https://www.amazon.com/Episode-Cast-Recording-Bright-Sessions/dp/B07BJB57QQ/ref=sr_1_1?ie=UTF8&qid=1521605524&sr=8-1&keywords=the+bright+sessions+cast
+
+Listen on Google Play: https://play.google.com/store/music/album/The_Bright_Sessions_Cast_Episode_50_Cast_Recording?id=Bbwmykccksve3wwookr2rwhjf5a ]]>
+      </itunes:summary>
+      <itunes:duration>2033</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[da38fb16d2564576de16dba3d465257c]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4866520943.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>409 - Movie Night</title>
+      <description>Season 4, Episode 9 - The gang tries to have a normal night in.</description>
+      <pubDate>Wed, 07 Mar 2018 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/48e5670c-5627-11e9-853f-83cf9fad7b16/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Movie Night</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 9 - The gang tries to have a normal night in.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 9 - The gang tries to have a normal night in.]]>
+      </itunes:summary>
+      <itunes:duration>1504</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[952ab4aa9a8426171d29a6595b513f1d]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7674451259.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Announcement - The Future of the Show</title>
+      <description>Hi everyone, this is Lauren Shippen, the creator and writer of The Bright Sessions and also the voice of Sam, as you can probably tell. As you know, we’re on our mid-season hiatus and will be back with Episode 49 in one month. But I wanted to drop in here to talk about the broader future of the show.   Back in the summer of 2015, I sent a Facebook message to a couple of friends and asked if they’d be willing to lend their voices to a little project I was working on. Nearly 3 years and over 18 hours of content later, The Bright Sessions has taken on a life of its own, far exceeding any of our expectations for what started as a passion project made in my bedroom. We’ve really, really loved making this show but, as with all things, it must eventually come to an end.    When we come back in March, we'll be releasing eight more episodes, concluding the season, and the series, with Episode 56. The arc of the story we’ve been telling since Episode 1 is coming to its natural close and I want these 56 episodes to stand on their own as a complete series that people can discover and listen to for years to come.    All that said, I’m not done with these characters yet. They have so much more to do and say and I know my actors aren’t done with them either. So, even though the original run of The Bright Sessions is coming a close, this feed isn’t going quiet after June 13th.   Thanks to our incredible Patreon supporters, we’ll be doing nine bonus therapy episodes that explore Dr. Bright’s other patients. These will start in July, with one being released every single month for nine months. For our patrons, there will be a bonus to the bonus - a special 10th therapy session that you definitely don’t want to miss. To become a patron, go to &lt;a href= "http://patreon.com/thebright"&gt;patreon.com/thebright&lt;/a&gt;sessions.   Making The Bright Sessions has only ever been possible because of our strange and unusual family on Patreon and we’ll need that support more than ever moving forward. Not only do we need to fund the production of these ten bonus episodes, but we also have two mini series spin-offs coming in 2019 and 2020 that are going to be bigger and more ambitious than anything we’ve ever done before. These series will be limited run, but they will take place post-Season 4 and involve many familiar faces as well as a whole slew of new characters. The first spin-off will be out in March of 2019 - I can’t tell you too much about it because the summary alone spoils the end of Season 4, but I think you guys will like it. The second spin-off will come out fall of 2020 and will involve a fan favorite character - and a favorite character of mine - Caleb, in an entirely new phase of his life. These series will expand the story and the universe of The Bright Sessions for listeners who have been with us since the start, but also stand on their own for people just dropping in to our atypical world.   You also may have heard some news about Bright Sessions books - the rumors are true! I’m writing three YA novels that focus on different characters. The first is about Caleb and Adam, the second about Damien, and the third about our newest character, Rose.  The first will be out in the summer of 2019.    So…yeah. Even though we’re closing a chapter, we have a lot ahead of us. So stay tuned and stay subscribed to this feed - all future shows and any important announcements will be right here. Also make sure to follow us on twitter @brightpodcast for more frequent updates.    Before I get back to editing our 50th episode - which we just recorded this past weekend and which is going to be really freakin’ cool, I can’t wait for you guys to hear it - I just want to take a moment to say thank you. I cannot begin to express how grateful I am - how grateful we all are - for the emails, the fanart, the theorizing, the all-caps tweets, the meet-ups, and the personal stories and the love you’ve shared with us these past two and half years. This story means a lot to us and I can’t tell you how much joy we get from the fact that it means a lot to you as well. From the bottom of our hearts, thank you.    So: keep listening and, as always, stay strange.</description>
+      <pubDate>Wed, 07 Feb 2018 05:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/492b66bc-5627-11e9-853f-43bbe320ff97/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:subtitle>Hi everyone, this is Lauren Shippen, the creator and writer of The Bright Sessions and also the voice of Sam, as you can probably tell. As you know, we’re on our mid-season hiatus and will be back with Episode 49 in one month. But I wanted...</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Hi everyone, this is Lauren Shippen, the creator and writer of The Bright Sessions and also the voice of Sam, as you can probably tell. As you know, we’re on our mid-season hiatus and will be back with Episode 49 in one month. But I wanted to drop in here to talk about the broader future of the show.   Back in the summer of 2015, I sent a Facebook message to a couple of friends and asked if they’d be willing to lend their voices to a little project I was working on. Nearly 3 years and over 18 hours of content later, The Bright Sessions has taken on a life of its own, far exceeding any of our expectations for what started as a passion project made in my bedroom. We’ve really, really loved making this show but, as with all things, it must eventually come to an end.    When we come back in March, we'll be releasing eight more episodes, concluding the season, and the series, with Episode 56. The arc of the story we’ve been telling since Episode 1 is coming to its natural close and I want these 56 episodes to stand on their own as a complete series that people can discover and listen to for years to come.    All that said, I’m not done with these characters yet. They have so much more to do and say and I know my actors aren’t done with them either. So, even though the original run of The Bright Sessions is coming a close, this feed isn’t going quiet after June 13th.   Thanks to our incredible Patreon supporters, we’ll be doing nine bonus therapy episodes that explore Dr. Bright’s other patients. These will start in July, with one being released every single month for nine months. For our patrons, there will be a bonus to the bonus - a special 10th therapy session that you definitely don’t want to miss. To become a patron, go to <a href= "http://patreon.com/thebright">patreon.com/thebright</a>sessions.   Making The Bright Sessions has only ever been possible because of our strange and unusual family on Patreon and we’ll need that support more than ever moving forward. Not only do we need to fund the production of these ten bonus episodes, but we also have two mini series spin-offs coming in 2019 and 2020 that are going to be bigger and more ambitious than anything we’ve ever done before. These series will be limited run, but they will take place post-Season 4 and involve many familiar faces as well as a whole slew of new characters. The first spin-off will be out in March of 2019 - I can’t tell you too much about it because the summary alone spoils the end of Season 4, but I think you guys will like it. The second spin-off will come out fall of 2020 and will involve a fan favorite character - and a favorite character of mine - Caleb, in an entirely new phase of his life. These series will expand the story and the universe of The Bright Sessions for listeners who have been with us since the start, but also stand on their own for people just dropping in to our atypical world.   You also may have heard some news about Bright Sessions books - the rumors are true! I’m writing three YA novels that focus on different characters. The first is about Caleb and Adam, the second about Damien, and the third about our newest character, Rose.  The first will be out in the summer of 2019.    So…yeah. Even though we’re closing a chapter, we have a lot ahead of us. So stay tuned and stay subscribed to this feed - all future shows and any important announcements will be right here. Also make sure to follow us on twitter @brightpodcast for more frequent updates.    Before I get back to editing our 50th episode - which we just recorded this past weekend and which is going to be really freakin’ cool, I can’t wait for you guys to hear it - I just want to take a moment to say thank you. I cannot begin to express how grateful I am - how grateful we all are - for the emails, the fanart, the theorizing, the all-caps tweets, the meet-ups, and the personal stories and the love you’ve shared with us these past two and half years. This story means a lot to us and I can’t tell you how much joy we get from the fact that it means a lot to you as well. From the bottom of our hearts, thank you.    So: keep listening and, as always, stay strange.]]>
+      </itunes:summary>
+      <itunes:duration>243</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3b00cec74ba7c31b3c534c5541b6e4f7]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM8922165813.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>408 - Mark</title>
+      <description>Season 4, Episode 8 - Mark tries to move forward.</description>
+      <pubDate>Wed, 24 Jan 2018 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/497287b8-5627-11e9-853f-734f3fb32f40/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Mark</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 8 - Mark tries to move forward.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 8 - Mark tries to move forward.]]>
+      </itunes:summary>
+      <itunes:duration>2193</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5ee52da828dbc495bcc8c104499e089b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7209094445.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>407 - Adam</title>
+      <description>Season 4, Episode 7 - Adam looks in from the outside.</description>
+      <pubDate>Wed, 10 Jan 2018 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/49c9813a-5627-11e9-853f-ff57e3614042/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Adam</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 7 - Adam looks in from the outside.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 7 - Adam looks in from the outside.]]>
+      </itunes:summary>
+      <itunes:duration>1745</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[c14a8f2bd11d27e63d4014bfbbc03965]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4954128112.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>406 - Damien</title>
+      <description>Season 4, Episode 6 - Damien adjusts to his new way of life.</description>
+      <pubDate>Wed, 27 Dec 2017 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4a196920-5627-11e9-853f-e7bde59ca3fd/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Damien</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 6 - Damien adjusts to his new way of life.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 6 - Damien adjusts to his new way of life.]]>
+      </itunes:summary>
+      <itunes:duration>1182</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[02f8c58f1ff27f9d3c204cdc09d1ab8e]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM8507845538.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>405 - Chloe</title>
+      <description>Season 4, Episode 5 - Chloe struggles with recent events and makes an announcement.</description>
+      <pubDate>Wed, 13 Dec 2017 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4a600a06-5627-11e9-853f-ef9e816d541f/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Chloe</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 5 - Chloe struggles with recent events and makes an announcement.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 5 - Chloe struggles with recent events and makes an announcement.]]>
+      </itunes:summary>
+      <itunes:duration>1604</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[dbadd341727ebde0ab1d37925b96342a]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7493895771.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>404 - Patient #14-A-8 (Rose)</title>
+      <description>Season 4, Episode 4 - Session 7 with my dreamwalking patient.</description>
+      <pubDate>Wed, 29 Nov 2017 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4ac9a57e-5627-11e9-853f-f388ebafc9e6/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #14-A-8 (Rose)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 4 - Session 7 with my dreamwalking patient.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 4 - Session 7 with my dreamwalking patient.]]>
+      </itunes:summary>
+      <itunes:duration>1449</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3d29c9d6d7b98c8b41e5c43562e2e191]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM8786906628.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>403 - Former Patient (#11-A-7)</title>
+      <description>Season 4, Episode 3 - Caleb stops by the office.</description>
+      <pubDate>Wed, 15 Nov 2017 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4b2d5a4c-5627-11e9-853f-530868ea6270/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Former Patient (#11-A-7)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 3 - Caleb stops by the office.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 3 - Caleb stops by the office.]]>
+      </itunes:summary>
+      <itunes:duration>1658</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[37761847af561f1869a6c7307634193a]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2998120839.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>402 - Subject #E-307</title>
+      <description>Season 4, Episode 2 - *Please be advised this episode contains mention of suicide, kidnapping, and emotional abuse*
+
+Two months of logs from Subject #E-307.</description>
+      <pubDate>Wed, 01 Nov 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4ba2374a-5627-11e9-853f-b7020b9d1869/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Subject #E-307</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 2 - *Please be advised this episode contains mention of suicide, kidnapping, and emotional abuse* Two months of logs from Subject #E-307.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 2 - *Please be advised this episode contains mention of suicide, kidnapping, and emotional abuse*
+
+Two months of logs from Subject #E-307.]]>
+      </itunes:summary>
+      <itunes:duration>1491</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[7532392f4305719c748f9649e2145202]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9979105494.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Therapy for the strange and unusual</title>
+      <description>Start with Season 1, Episode 1</description>
+      <pubDate>Fri, 20 Oct 2017 19:30:14 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4bf183fe-5627-11e9-853f-2be4d64133aa/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Therapy for the strange and unusual</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:subtitle>Start with Season 1, Episode 1</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Start with Season 1, Episode 1]]>
+      </itunes:summary>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[2a9b51b732792e15c4e87ff1141bc7cd]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5201444974.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>401 - Birthday</title>
+      <description>Season 4, Episode 1 - A series of interruptions hamper the celebration of another year.</description>
+      <pubDate>Wed, 18 Oct 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4c33ab9e-5627-11e9-853f-0337ae21e6f4/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Birthday</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>Season 4, Episode 1 - A series of interruptions hamper the celebration of another year.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 4, Episode 1 - A series of interruptions hamper the celebration of another year.]]>
+      </itunes:summary>
+      <itunes:duration>1525</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[30e34f4071a795dd50d25a183a3f00ed]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2710276038.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>319 - Safe House Part II</title>
+      <description>Season 3, Episode 19 - *Please be advised this episode contains the aftermath of violence, discussions of self harm, and intense psychological distress*
+
+Audio from the safe house on Friday, November 11th.</description>
+      <pubDate>Wed, 07 Jun 2017 07:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4ca95f74-5627-11e9-853f-a301d7f0d72b/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Safe House Part II</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 19 - *Please be advised this episode contains the aftermath of violence, discussions of self harm, and intense psychological distress* Audio from the safe house on Friday, November 11th.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 19 - *Please be advised this episode contains the aftermath of violence, discussions of self harm, and intense psychological distress*
+
+Audio from the safe house on Friday, November 11th.]]>
+      </itunes:summary>
+      <itunes:duration>3218</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[dd047ee268969dc4b1e958ab9e814890]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5446669810.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>318 - Safe House Part I</title>
+      <description>Season 3, Episode 18 - *Please be advised this episode contains violence* Audio from the safe house on Friday, November 11th.</description>
+      <pubDate>Wed, 24 May 2017 11:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4cffd052-5627-11e9-853f-07e613921c31/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Safe House Part I</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 18 - *Please be advised this episode contains violence* Audio from the safe house on Friday, November 11th.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 18 - *Please be advised this episode contains violence* Audio from the safe house on Friday, November 11th.]]>
+      </itunes:summary>
+      <itunes:duration>1371</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[46a571747af05cf68c7a308ad367dd05]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2042322505.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>317 - Telephone 2</title>
+      <description>Season 3, Episode 17 - *Please be advised that this episode contains mentions of suicide* 
+
+Phone conversations from November 10th through November 11th.</description>
+      <pubDate>Wed, 10 May 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4d4b8bfa-5627-11e9-853f-9b020ca4465a/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Telephone 2</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 17 - *Please be advised that this episode contains mentions of suicide*  Phone conversations from November 10th through November 11th.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 17 - *Please be advised that this episode contains mentions of suicide* 
+
+Phone conversations from November 10th through November 11th.]]>
+      </itunes:summary>
+      <itunes:duration>1285</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[ea1f31c96a66f9182d41bfeff2b50fdd]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM1924397591.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>316 - Patient #14-A-8 (Rose)</title>
+      <description>Season 3, Episode 16 - November 3rd - second session with my newest patient.</description>
+      <pubDate>Wed, 26 Apr 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4d992c7a-5627-11e9-853f-972256ece7f4/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #14-A-8 (Rose)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 16 - November 3rd - second session with my newest patient.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 16 - November 3rd - second session with my newest patient.]]>
+      </itunes:summary>
+      <itunes:duration>1766</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[78a0ab7692eb2f44c6a0b6d37c207b51]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7063072048.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>315 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 3, Episode 15 - A less than normal session, due to the events that transpired directly before.</description>
+      <pubDate>Wed, 12 Apr 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4df9ecea-5627-11e9-853f-4359f9518e91/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 15 - A less than normal session, due to the events that transpired directly before.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 15 - A less than normal session, due to the events that transpired directly before.]]>
+      </itunes:summary>
+      <itunes:duration>1492</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e828a03ae569cf01e71cf8fe11b3005f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4232223443.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>314 - sunday, after my session</title>
+      <description>Season 3, Episode 14 - walking whatshisface home w/ Sam (Mini Episode).</description>
+      <pubDate>Wed, 05 Apr 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4e589ccc-5627-11e9-853f-dbac23c2891a/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>sunday, after my session</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 14 - walking whatshisface home w/ Sam (Mini Episode).</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 14 - walking whatshisface home w/ Sam (Mini Episode).]]>
+      </itunes:summary>
+      <itunes:duration>279</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[96c135918effa5f0d85bccb934f5e2cf]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9965857997.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>313 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 3, Episode 13 - My latest conversation with Chloe was interrupted by a series of visitors.</description>
+      <pubDate>Wed, 29 Mar 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4ee0121a-5627-11e9-853f-e326d8fdb117/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 13 - My latest conversation with Chloe was interrupted by a series of visitors.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 13 - My latest conversation with Chloe was interrupted by a series of visitors.]]>
+      </itunes:summary>
+      <itunes:duration>1283</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[827517871f49d5f7b6870c627996a3b7]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7269259339.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>312 - September 30th, 2016</title>
+      <description>Season 3, Episode 12 - On the road home. (Mini episode)</description>
+      <pubDate>Wed, 22 Mar 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4f381776-5627-11e9-853f-6307ad7af1ec/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>September 30th, 2016</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 12 - On the road home. (Mini episode)</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 12 - On the road home. (Mini episode)]]>
+      </itunes:summary>
+      <itunes:duration>577</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[31aa32a0a3de0bb5c1d8fb5971d21d46]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3059683035.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>311 - Frank</title>
+      <description>Season 3, Episode 11 - *Please be advised that this episode contains descriptions of violence and war, and deals with some of the trauma that results from these actions.*
+
+My first full session with Frank Sawyer (non-atypical/atypical-adjacent).</description>
+      <pubDate>Wed, 15 Mar 2017 12:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4f900a30-5627-11e9-853f-bfa0491b4bdc/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Frank</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 11 - *Please be advised that this episode contains descriptions of violence and war, and deals with some of the trauma that results from these actions.* My first full session with Frank Sawyer (non-atypical/atypical-adjacent).  ...</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 11 - *Please be advised that this episode contains descriptions of violence and war, and deals with some of the trauma that results from these actions.*
+
+My first full session with Frank Sawyer (non-atypical/atypical-adjacent).]]>
+      </itunes:summary>
+      <itunes:duration>2227</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[7026362886a87187c299586d27fc5220]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4540585452.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>310 - September 24th, 2016</title>
+      <description>Season 3, Episode 10 - Phone calls and recordings from Friday evening through Saturday afternoon.</description>
+      <pubDate>Wed, 01 Mar 2017 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/4fdb440a-5627-11e9-853f-6bd6d937a7d1/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>September 24th, 2016</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 10 - Phone calls and recordings from Friday evening through Saturday afternoon.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 10 - Phone calls and recordings from Friday evening through Saturday afternoon.]]>
+      </itunes:summary>
+      <itunes:duration>2162</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[6b04be3aedc0eb9223644366750b7a7f]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9307333609.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>309 - Damien, September</title>
+      <description>Season 3, Episode 9 - For Joanie - hopefully she can help.</description>
+      <pubDate>Wed, 25 Jan 2017 14:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/50544864-5627-11e9-853f-5788d44c4f91/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Damien, September</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 9 - For Joanie - hopefully she can help.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 9 - For Joanie - hopefully she can help.]]>
+      </itunes:summary>
+      <itunes:duration>1135</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[b65e4c89c48bf3636bb15bff291616e3]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7974337506.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>308 - friday, studio time w/ the gang</title>
+      <description>Season 3, Episode 8 - september 23rd, 2016</description>
+      <pubDate>Wed, 11 Jan 2017 13:54:16 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/50932994-5627-11e9-853f-8ba8e8e55a9f/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>friday, studio time w/ the gang</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 8 - september 23rd, 2016</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 8 - september 23rd, 2016]]>
+      </itunes:summary>
+      <itunes:duration>1345</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[2ac066ecd056dfb49b7bcdf2084c1805]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM8501429649.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>307 - Friday, 9/23/16</title>
+      <description>Season 3, Episode 7 - Personal audio notes from Friday, September 23rd, 2016 - OAG</description>
+      <pubDate>Wed, 28 Dec 2016 06:36:19 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/50deec9e-5627-11e9-853f-eb6af59a68db/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Friday, 9/23/16</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 7 - Personal audio notes from Friday, September 23rd, 2016 - OAG</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 7 - Personal audio notes from Friday, September 23rd, 2016 - OAG]]>
+      </itunes:summary>
+      <itunes:duration>1410</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[b5b3b7ad93dcd0810947d9639c032e11]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM6970381836.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>306 - Caleb, 9/16</title>
+      <description>Season 3, Episode 6 - Caleb asked me to meet him at the park and well...I'll probably delete this later. Maybe. (Mini episode).</description>
+      <pubDate>Wed, 21 Dec 2016 08:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/51390418-5627-11e9-853f-eff6b4882457/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Caleb, 9/16</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 6 - Caleb asked me to meet him at the park and well...I'll probably delete this later. Maybe. (Mini episode).</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 6 - Caleb asked me to meet him at the park and well...I'll probably delete this later. Maybe. (Mini episode).]]>
+      </itunes:summary>
+      <itunes:duration>267</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[f44270defb55b2668969101662bc6c11]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2472194816.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>305 - Sam, September 13th</title>
+      <description>Season 3, Episode 5 - Sam returns and we catch up on the past few months.</description>
+      <pubDate>Wed, 14 Dec 2016 14:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/517d4e7a-5627-11e9-853f-6bf34d30e280/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Sam, September 13th</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 5 - Sam returns and we catch up on the past few months.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 5 - Sam returns and we catch up on the past few months.]]>
+      </itunes:summary>
+      <itunes:duration>1499</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[8b35d154c0b98d77fd8cf6ac2b268b5b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7821646853.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>304 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 3, Episode 4 - Truncated session with Patient #13 before a new patient came in. He defies my usual categories.</description>
+      <pubDate>Wed, 30 Nov 2016 14:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/51bef47e-5627-11e9-853f-5f86f9b31a13/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 4 - Truncated session with Patient #13 before a new patient came in. He defies my usual categories.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 4 - Truncated session with Patient #13 before a new patient came in. He defies my usual categories.]]>
+      </itunes:summary>
+      <itunes:duration>1449</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[2369d9f36370a185a5bcc8a6e78a8289]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM1161782296.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>303 - Mark, August</title>
+      <description>Season 3, Episode 3 - August, somewhere off I-80.</description>
+      <pubDate>Wed, 16 Nov 2016 14:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/52026eac-5627-11e9-853f-cb9b929662ce/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Mark, August</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 3 - August, somewhere off I-80.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 3 - August, somewhere off I-80.]]>
+      </itunes:summary>
+      <itunes:duration>1311</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e909e10814dd725ed8b5dd3865c58daa]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2774970762.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>302 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 3, Episode 2 - Session 40, September.</description>
+      <pubDate>Wed, 02 Nov 2016 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/525f3cea-5627-11e9-853f-7f34a5d621cd/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 2 - Session 40, September.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 2 - Session 40, September.]]>
+      </itunes:summary>
+      <itunes:duration>1863</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[08cf410b776b12b2d2eb0dcb859f691a]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9757795147.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>301 - Asset 43, Meetings 1-6</title>
+      <description>Season 3, Episode 1 - Disciplinary Meetings 1-6 with Asset 43.
+</description>
+      <pubDate>Wed, 19 Oct 2016 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/52a45a8c-5627-11e9-853f-67af7cebbe68/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Asset 43, Meetings 1-6</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>Season 3, Episode 1 - Disciplinary Meetings 1-6 with Asset 43.  </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 3, Episode 1 - Disciplinary Meetings 1-6 with Asset 43.
+]]>
+      </itunes:summary>
+      <itunes:duration>1235</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[ef62f5f1faba99ba142ced76a937361a]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3285812378.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>The Intrusion</title>
+      <description>A visitor appears.</description>
+      <pubDate>Thu, 15 Sep 2016 11:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/52f5848e-5627-11e9-853f-dfd1f58f964a/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Intrusion</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:subtitle>A visitor appears. [https://arsparadoxica.com]</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[A visitor appears.]]>
+      </itunes:summary>
+      <itunes:duration>831</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5a9a4af3fa6e20718912c0ab7a04fd0a]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2037846403.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>220 - For Mark</title>
+      <description>Season 2, Episode 20 - For Mark; July, August, September (Mini episodes). </description>
+      <pubDate>Wed, 27 Jul 2016 02:13:34 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5338e0a8-5627-11e9-853f-5f4727811005/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>For Mark</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 20 - For Mark; July, August, September (Mini episodes). </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 20 - For Mark; July, August, September (Mini episodes). ]]>
+      </itunes:summary>
+      <itunes:duration>1026</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[a27c1ef037363328f016d9c17995e253]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3060613168.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>219 - Zero Hour</title>
+      <description>Season 2, Episode 19 - Saturday, July 2nd.</description>
+      <pubDate>Wed, 15 Jun 2016 08:46:59 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/537e7302-5627-11e9-853f-abf6a8bbc705/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Zero Hour</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 19 - Saturday, July 2nd.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 19 - Saturday, July 2nd.]]>
+      </itunes:summary>
+      <itunes:duration>1651</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[4fa5e93a11e3b7e817c8f0113e812f3e]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2993508319.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>218 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 2, Episode 18 - Emergency session at the patient's request.</description>
+      <pubDate>Wed, 08 Jun 2016 14:04:44 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/53ccea5a-5627-11e9-853f-6f39556bffa4/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 18 - Emergency session at the patient's request.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 18 - Emergency session at the patient's request.]]>
+      </itunes:summary>
+      <itunes:duration>1271</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3dbb6750808a0514b25cf0821e4f30d3]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM6374775198.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>217 - Telephone</title>
+      <description>Season 2, Episode 17 - Phone conversations from approximately 12:30 AM on Friday to 12pm on Saturday.</description>
+      <pubDate>Wed, 01 Jun 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/54395eec-5627-11e9-853f-2b2d6223d10f/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Telephone</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 17 - Phone conversations from approximately 12:30 AM on Friday to 12pm on Saturday.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 17 - Phone conversations from approximately 12:30 AM on Friday to 12pm on Saturday.]]>
+      </itunes:summary>
+      <itunes:duration>1361</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[dcc679bb586179cbe513dc03f70e4815]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4785769013.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>216 - tuesday, coffee w/ Sam</title>
+      <description>Season 2, Episode 16 - 2:30pm, @ that cafe on oak.</description>
+      <pubDate>Wed, 25 May 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/547ef088-5627-11e9-853f-2fd33ae8db4e/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>tuesday, coffee w/ Sam</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 16 - 2:30pm, @ that cafe on oak.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 16 - 2:30pm, @ that cafe on oak.]]>
+      </itunes:summary>
+      <itunes:duration>954</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[7a01085c6a03b04107b9b91fb1275bb8]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7633399018.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>215 - Stakeout #2</title>
+      <description>Season 2, Episode 15 - Monday, 4:30pm</description>
+      <pubDate>Wed, 18 May 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/54ccfa4e-5627-11e9-853f-e3d6ae552518/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Stakeout #2</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 15 - Monday, 4:30pm</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 15 - Monday, 4:30pm]]>
+      </itunes:summary>
+      <itunes:duration>692</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[73eb6bc0a0214e0b128a58fe62ae92ef]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3951046370.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>214 - ID 46942 - Log 426</title>
+      <description>Season 2, Episode 14 - Personal log 426 (summary of quarterly meetings).</description>
+      <pubDate>Wed, 11 May 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/553c9372-5627-11e9-853f-bfe5c2239d9e/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>ID 46942 - Log 426</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 14 - Personal log 426 (summary of quarterly meetings).</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 14 - Personal log 426 (summary of quarterly meetings).]]>
+      </itunes:summary>
+      <itunes:duration>750</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[d06c4794783a2a8668657893f2237a13]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3177104256.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>213 - Patient #12-D-10-9 (Sam)</title>
+      <description>Season 2, Episode 13 - Not an official session - more of a personal meeting.</description>
+      <pubDate>Wed, 04 May 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/559a7cb2-5627-11e9-853f-73a453b694ec/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #12-D-10-9 (Sam)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 13 - Not an official session - more of a personal meeting.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 13 - Not an official session - more of a personal meeting.]]>
+      </itunes:summary>
+      <itunes:duration>1110</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[ee452cb44b71b98427f1c3baeceabb8b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4186922546.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>212 - Stakeout #1</title>
+      <description>Season 2, Episode 12 - Friday, 4pm (Mini episode).</description>
+      <pubDate>Fri, 29 Apr 2016 16:37:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/55e6cf04-5627-11e9-853f-2774c4459636/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Stakeout #1</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 12 - Friday, 4pm (Mini episode).</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 12 - Friday, 4pm (Mini episode).]]>
+      </itunes:summary>
+      <itunes:duration>225</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[ffdd61d3c11697a01dc039ff0ebafa70]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7048972153.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>211 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 2, Episode 11 - Part 2 of 2.</description>
+      <pubDate>Wed, 27 Apr 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/56316d2a-5627-11e9-853f-8f31b1fcda67/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 11 - Part 2 of 2.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 11 - Part 2 of 2.]]>
+      </itunes:summary>
+      <itunes:duration>1055</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[532be0ac91d62a921c857b84134d6c1b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3028694980.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>210 - ID 46942 - Asset #43</title>
+      <description>Season 2, Episode 10 - Part 1 of 2.</description>
+      <pubDate>Wed, 20 Apr 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/56769440-5627-11e9-853f-57f4b2abd3f9/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>ID 46942 - Asset #43</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 10 - Part 1 of 2.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 10 - Part 1 of 2.]]>
+      </itunes:summary>
+      <itunes:duration>692</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[709ad49cf11ea7c66707ad72b9af3e54]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM4370172388.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>209 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 2, Episode 9 - Session 7 with a mind reader. I am hopeful that she might assist me with my meeting next week.</description>
+      <pubDate>Wed, 13 Apr 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/56be5460-5627-11e9-853f-d32f80133307/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 9 - Session 7 with a mind reader. I am hopeful that she might assist me with my meeting next week.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 9 - Session 7 with a mind reader. I am hopeful that she might assist me with my meeting next week.]]>
+      </itunes:summary>
+      <itunes:duration>990</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[150ccbdad28039868d30eb24c6c7193b]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM3732892273.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>208 - For SB (Mini Episode 2)</title>
+      <description>Season 2, Episode 8 - Hopefully this will make things clearer for you, Sam. Just press play - JB. (Mini Episode)</description>
+      <pubDate>Fri, 08 Apr 2016 16:53:39 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/570e9c54-5627-11e9-853f-c318563ab22e/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>For SB</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 8 - Hopefully this will make things clearer for you, Sam. Just press play - JB. (Mini Episode)</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 8 - Hopefully this will make things clearer for you, Sam. Just press play - JB. (Mini Episode)]]>
+      </itunes:summary>
+      <itunes:duration>570</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[02a23a14b7c54780c3cf644fc66936de]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM8574096165.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>207 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 2, Episode 7 - Session 19 with one of my teenage patients. He had big plans this weekend to tell a friend about his ability and seemed quite nervous about it.</description>
+      <pubDate>Wed, 06 Apr 2016 13:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5765ffc6-5627-11e9-853f-4bfb2f31d957/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 7 - Session 19 with one of my teenage patients. He had big plans this weekend to tell a friend about his ability and seemed quite nervous about it.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 7 - Session 19 with one of my teenage patients. He had big plans this weekend to tell a friend about his ability and seemed quite nervous about it.]]>
+      </itunes:summary>
+      <itunes:duration>1083</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[37def1dc29faeea3f7023176a60d155c]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2967183337.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>206 - Patient #12-D-10 (Sam)</title>
+      <description>Season 2, Episode 6 - Session 9 with patient twelve - she called me last night and left a strange, excited message. I gather something out of the ordinary has happened on one of her trips. </description>
+      <pubDate>Wed, 30 Mar 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/57feb77a-5627-11e9-853f-0f40f6f2d25a/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #12-D-10 (Sam)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 6 - Session 9 with patient twelve - she called me last night and left a strange, excited message. I gather something out of the ordinary has happened on one of her trips. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 6 - Session 9 with patient twelve - she called me last night and left a strange, excited message. I gather something out of the ordinary has happened on one of her trips. ]]>
+      </itunes:summary>
+      <itunes:duration>1078</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[e5e4ed840b15645648a4ca3c298e0663]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM6639044084.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>205 - The Voicemail of Dr. Bright</title>
+      <description>Season 2, Episode 5 - Voice messages left on Dr. Bright's answering machine on a Friday.&amp;nbsp; (Mini episode)</description>
+      <pubDate>Mon, 28 Mar 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/585657a0-5627-11e9-853f-e383f8f5d80d/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>The Voicemail of Dr. Bright</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 5 - Voice messages left on Dr. Bright's answering machine on a Friday.  (Mini episode)</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 5 - Voice messages left on Dr. Bright's answering machine on a Friday.&nbsp; (Mini episode)]]>
+      </itunes:summary>
+      <itunes:duration>297</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[d39ebbe13a41a7d6bb23348579d4b82d]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5442419517.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>204 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 2, Episode 4 - Session 6 with Patient #13 - we took an unscheduled month off but I think we can get back on track quickly.</description>
+      <pubDate>Wed, 23 Mar 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/58b41a8e-5627-11e9-853f-3bd9de9ba01d/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 4 - Session 6 with Patient #13 - we took an unscheduled month off but I think we can get back on track quickly.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 4 - Session 6 with Patient #13 - we took an unscheduled month off but I think we can get back on track quickly.]]>
+      </itunes:summary>
+      <itunes:duration>1000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[2e4ee62a4e0c7471c169ab06792cd5ca]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM1341052262.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>203 - Patient #12-D-10 (Sam)</title>
+      <description>Season 2, Episode 3 - Session 6 (5? Check records) with Patient #12 - unscheduled but very welcome. </description>
+      <pubDate>Wed, 16 Mar 2016 15:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/58fccae0-5627-11e9-853f-cf46d1f64b9c/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #12-D-10 (Sam)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 3 - Session 6 (5? Check records) with Patient #12 - unscheduled but very welcome. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 3 - Session 6 (5? Check records) with Patient #12 - unscheduled but very welcome. ]]>
+      </itunes:summary>
+      <itunes:duration>1163</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[41bcc5f5cf9642174bf03a5cb62890d1]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM6068036762.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>202 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 2, Episode 2 - Session 15. </description>
+      <pubDate>Wed, 09 Mar 2016 16:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5953e564-5627-11e9-853f-0b887cbfa660/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 2 - Session 15. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 2 - Session 15. ]]>
+      </itunes:summary>
+      <itunes:duration>1271</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5568f6a080da9812ff081519f35e90b3]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM8898427602.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>201 - Patient #5-E-3 (Damien)</title>
+      <description>Season 2, Episode 1 - Session 30 (session 29? 31?) with my highest risk patient. </description>
+      <pubDate>Wed, 02 Mar 2016 16:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/599aaf76-5627-11e9-853f-fb53d2dfafc1/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #5-E-3 (Damien)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>Season 2, Episode 1 - Session 30 (session 29? 31?) with my highest risk patient. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 2, Episode 1 - Session 30 (session 29? 31?) with my highest risk patient. ]]>
+      </itunes:summary>
+      <itunes:duration>986</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[297d0972ed56462ac7bb0b3f8db8eb19]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM5748256526.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>109 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 1, Episode 9 - Session 5 with a telepath. </description>
+      <pubDate>Sun, 10 Jan 2016 16:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/59fd0b26-5627-11e9-853f-bfcb26b6c682/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 9 - Session 5 with a telepath. The patient has been steadily gaining more control of her power over the past month and I may soon be able to categorize her as a Level 4. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 9 - Session 5 with a telepath. ]]>
+      </itunes:summary>
+      <itunes:duration>844</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3f3f23568c372c7b2fd3b6f593432233]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2690442936.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>108 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 1, Episode 8 - Session 13 with this Level 7 empath. </description>
+      <pubDate>Sun, 03 Jan 2016 15:41:35 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5a679888-5627-11e9-853f-1388c8ed7194/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 8 - Session 13 with this Level 7 empath. Though he still has difficulty balancing strong emotions, he is learning to control his ability better and may soon be downgraded to a Level 6.</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 8 - Session 13 with this Level 7 empath. ]]>
+      </itunes:summary>
+      <itunes:duration>989</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[8673bb0ce7991ab5ead123765d18e5b8]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7388427590.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>107 - Patient #12-D-10 (Sam)</title>
+      <description>Season 1, Episode 7 - Session 4 with a time traveler who has yet to gain control of her ability. I have only observed her ability in action once, but I hope to change that. </description>
+      <pubDate>Sun, 27 Dec 2015 15:23:45 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5ac4a500-5627-11e9-853f-47401ba3d936/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>07 - Patient #12-D-10 (Sam)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 7 - Session 4 with a time traveler who has yet to gain control of her ability. I have only observed her ability in action once, but I hope to change that. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 7 - Session 4 with a time traveler who has yet to gain control of her ability. I have only observed her ability in action once, but I hope to change that. ]]>
+      </itunes:summary>
+      <itunes:duration>914</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[5a055e8a61623ba2acdd8603f7cb1511]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM7310152673.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>106 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 1, Episode 6 - Session 2 with a twenty-year old mind reader. </description>
+      <pubDate>Sun, 13 Dec 2015 16:00:00 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5b2002e2-5627-11e9-853f-a313b010aa96/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 6 - Session 2 with a twenty-year old mind reader. While initially resistant to the idea of hearing other's thoughts, the more she talks about her ability, the more she is able to believe that diagnosis. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 6 - Session 2 with a twenty-year old mind reader. ]]>
+      </itunes:summary>
+      <itunes:duration>864</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[77e41104a10d77d7fa2234195ef1fba6]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9183517217.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>105 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 1, Episode 5 - Session 10 with a teenage empath. His continued exposure to a fellow student may help him learn to control his ability. </description>
+      <pubDate>Sun, 06 Dec 2015 19:56:49 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5b6972ba-5627-11e9-853f-370d427e3beb/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 5 - Session 10 with a teenage empath. His continued exposure to a fellow student may help him learn to control his ability. </itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 5 - Session 10 with a teenage empath. His continued exposure to a fellow student may help him learn to control his ability. ]]>
+      </itunes:summary>
+      <itunes:duration>1163</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[20be63865d17985ca6e93b9f2048998d]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM6519520070.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>104 - Patient #12-D-10 (Sam)</title>
+      <description>Season 1, Episode 4 - Session 2 with the time traveler.</description>
+      <pubDate>Sun, 29 Nov 2015 16:07:23 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5bb03d30-5627-11e9-853f-279bdb1cab6c/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #12-D-10 (Sam)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 4 - Session 2 with the time traveler, Samantha Barnes. After returning from one of her time trips last session, she left quickly - I was surprised, but relieved, that she made another appointment.    Visit...</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 4 - Session 2 with the time traveler.]]>
+      </itunes:summary>
+      <itunes:duration>1014</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[94145deda9dd0d0685b4978157be1a37]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM9859413654.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>103 - Patient #13-A-3 (Chloe)</title>
+      <description>Season 1, Episode 3 - Session 1 with Chloe Turner, the daughter of the first atypical I ever met.</description>
+      <pubDate>Sun, 15 Nov 2015 19:49:20 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5c33b430-5627-11e9-853f-f364756d1413/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #13-A-3 (Chloe)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 3 - Session 1 with Chloe Turner, the daughter of the first atypical I ever met. Her mother said she has been having difficulties in college and is concerned that Chloe may also be atypical.    Visit...</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 3 - Session 1 with Chloe Turner, the daughter of the first atypical I ever met.]]>
+      </itunes:summary>
+      <itunes:duration>822</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[89b8a0301558e919cf7a6e05f5a65e84]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2199440229.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>102 - Patient #11-A-7 (Caleb)</title>
+      <description>Season 1, Episode 2 - Session 9 with a 16 year old empath.</description>
+      <pubDate>Sun, 08 Nov 2015 06:18:35 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5c787caa-5627-11e9-853f-0b66daca2884/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #11-A-7 (Caleb)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 2 - Session 9 with a 16 year old empath. The patient has been having some difficulty at school but a fellow student may provide an opportunity for him to gain better understanding of his ability.   www.thebrightsessions.com</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 2 - Session 9 with a 16 year old empath.]]>
+      </itunes:summary>
+      <itunes:duration>1030</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[df681e20ed068fed134e97990dae6cef]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM6323979578.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>101 - Patient #12-D-10 (Sam)</title>
+      <description>Season 1, Episode 1 - Session 1 with Samantha Barnes, a young woman with a Level 10, Class D ability.</description>
+      <pubDate>Tue, 27 Oct 2015 21:33:38 -0000</pubDate>
+      <itunes:author>Atypical Artists</itunes:author>
+      <itunes:image href="http://commondatastorage.googleapis.com/megaphone-prod/podcasts/5cc4437e-5627-11e9-853f-537b39e4c234/image/TBS_S4_LogoiTUNES.jpg"/>
+      <itunes:title>Patient #12-D-10 (Sam)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:subtitle>Season 1, Episode 1 - Session 1 with Samantha Barnes, a young woman with a Level 10, Class D ability. She found me through the ad I placed in the paper offering "therapy for the strange and unusual".      Visit...</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Season 1, Episode 1 - Session 1 with Samantha Barnes, a young woman with a Level 10, Class D ability.]]>
+      </itunes:summary>
+      <itunes:duration>785</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false"><![CDATA[3b45989f9477128db750d2cd85940db6]]></guid>
+      <enclosure url="https://traffic.megaphone.fm/LM2775948502.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
