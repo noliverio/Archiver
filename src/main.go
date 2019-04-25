@@ -43,13 +43,9 @@ func main() {
 	rss_file := os.Args[1]
 	episodes := parse_rss_file(rss_file)
 
-	err := download_episode(episodes[0])
-	if err != nil {
-		fmt.Println(nil)
+	for _, episode := range episodes {
+		go download_wrapper(episode)
 	}
-	//	for _, episode := range episodes {
-	//		fmt.Println(episode)
-	//	}
 }
 
 func parse_rss_file(rss_file string) []Episode {
@@ -76,6 +72,13 @@ func parse_rss_file(rss_file string) []Episode {
 	}
 
 	return episode_slice
+}
+
+func download_wrapper(episode Episode) {
+	err := download_episode(episode)
+	if err != nil {
+		fmt.Println(err)
+	}
 }
 
 func download_episode(episode Episode) error {

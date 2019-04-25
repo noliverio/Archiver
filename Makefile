@@ -1,11 +1,11 @@
 GOCMD=go
-GOBUILD=$(GOCMD) build
+GOBUILD=$(GOCMD) build 
+BUILDPATH=src/main.go
 GOTEST=$(GOCMD) test
-GOINSTALL=$(GOCMD) build -o $(GOPATH)/bin/
 GOGET=$(GOCMD) get
-BINARY_NAME=Archiver
-WINDOWS_BINARY_NAME=Archiver.exe
+BINARY_NAME=archiver
+WINDOWS_BINARY_NAME=archiver.exe
 build:
-	$(GOBUILD) -o $(BINARY_NAME) 
+	$(GOBUILD) -o $(BINARY_NAME) $(BUILDPATH)
 install:
-	$(GOINSTALL)$(BINARY_NAME)
+	$(GOBUILD) -o $(GOPATH)/bin/$(BINARY_NAME) $(BUILDPATH)
