@@ -61,11 +61,15 @@ func modify_rss_file_data(rss_file_content []byte, flags map[string]bool) []byte
 	if flags["itunes_title"] {
 		rss_file_string = strings.Replace(rss_file_string, "<title>", "<junktitle>", -1)
 		rss_file_string = strings.Replace(rss_file_string, "itunes:title", "title", -1)
+	} else {
+		rss_file_string = strings.Replace(rss_file_string, "itunes:title", "junktitle", -1)
 	}
 
 	if flags["itunes_season"] {
 		rss_file_string = strings.Replace(rss_file_string, "<season>", "<junkseason>", -1)
 		rss_file_string = strings.Replace(rss_file_string, "itunes:season", "season", -1)
+	} else {
+		rss_file_string = strings.Replace(rss_file_string, "itunes:season", "junkseason", -1)
 	}
 
 	modified_rss_file := []byte(rss_file_string)
