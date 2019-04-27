@@ -15,10 +15,9 @@ func get_flags() map[string]bool {
 		if flag[:2] != "--" {
 			log.Fatalln(fmt.Sprintf("Fatal error: malformed flag: %s", flag))
 		} else {
-			flags[flag[:2]] = true
+			flags[flag[2:]] = true
 		}
 	}
-
 	return flags
 }
 

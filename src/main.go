@@ -110,6 +110,7 @@ func download_wrapper(episode Episode, wait *sync.WaitGroup) {
 
 func download_episode(episode Episode, wait *sync.WaitGroup) error {
 	defer wait.Done()
+	fmt.Printf("episode:  %v \n", episode)
 	resp, err := http.Get(episode.url)
 	if err != nil {
 		return err
