@@ -58,14 +58,14 @@ func main() {
 // Sometimes the rss files can give conflicting data so I need a way to manage what information comes from which fields.
 func modify_rss_file_data(rss_file_content []byte, flags map[string]bool) []byte {
 	rss_file_string := string(rss_file_content)
-	if flags["itunes_title"] {
+	if flags["itunes-title"] {
 		rss_file_string = strings.Replace(rss_file_string, "<title>", "<junktitle>", -1)
 		rss_file_string = strings.Replace(rss_file_string, "itunes:title", "title", -1)
 	} else {
 		rss_file_string = strings.Replace(rss_file_string, "itunes:title", "junktitle", -1)
 	}
 
-	if flags["itunes_season"] {
+	if flags["itunes-season"] {
 		rss_file_string = strings.Replace(rss_file_string, "<season>", "<junkseason>", -1)
 		rss_file_string = strings.Replace(rss_file_string, "itunes:season", "season", -1)
 	} else {
