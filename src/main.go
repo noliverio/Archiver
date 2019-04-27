@@ -9,6 +9,7 @@ import (
 	"os"
 	"strings"
 	"sync"
+	"time"
 )
 
 type rss_feed struct {
@@ -49,7 +50,26 @@ func main() {
 		wait.Add(1)
 		go download_wrapper(episode, &wait)
 	}
+	add_date_file(rss_file)
 	wait.Wait()
+}
+
+// Sometimes the rss files can give conflicting data
+func modify_rss_file_data(rss_file_content []byte, use_itunes_title bool, use_itunes_season bool) []byte {
+	rss_file_string := string(rss_file_content)
+	if use_itunes_title {
+		modified_rss_string = strings.Replace(rss_file_string, "<title>", "<junktitle>", -1)
+		modified_rss_string = strings.Replace(rss_file_string, "itunes:title", "title", -1)
+	}
+
+	if use_itunes_season {
+		modified_rss_string := strings.Replace(rss_file_string, "<season>", "<junkseason>", -1)
+		modified_rss_string = strings.Replace(rss_file_string, "itunes:season", "season", -1)
+	}
+
+	modified_rss_feed := []byte(modified_rss_string)
+
+	return modified_rss_feed
 }
 
 func parse_rss_file(rss_file string) []Episode {
@@ -58,8 +78,8 @@ func parse_rss_file(rss_file string) []Episode {
 	if err != nil {
 		panic(err)
 	}
-
-	modified_rss_feed := strings.Replace(string(rss_file_content), "itunes:season", "season", -1)
+	// TODO: impliment cli switchs to allow the user to control this line.
+	modified_rss_feed := modify_rss_file_data(rss_file_content, true, true)
 
 	decoder := xml.NewDecoder(bytes.NewReader([]byte(modified_rss_feed)))
 	err = decoder.Decode(&feed)
@@ -72,9 +92,9 @@ func parse_rss_file(rss_file string) []Episode {
 
 	for _, item := range episodes {
 		this_episode := Episode{title: item.Title, url: item.RSS_Enclosure.Url, season: item.Season}
+		fmt.Println(this_episode.title)
 		episode_slice = append(episode_slice, this_episode)
 	}
-
 	return episode_slice
 }
 
@@ -104,4 +124,11 @@ func download_episode(episode Episode, wait *sync.WaitGroup) error {
 func verify_directory(season int) {
 	dir := fmt.Sprintf("season%d", season)
 	os.Mkdir(dir, 0755)
+}
+
+func add_date_file(rss_file string) {
+	date := time.Now()
+	date_file := "README"
+	message := fmt.Sprintf("This archive created from %s at %v", rss_file, date)
+	ioutil.WriteFile(date_file, []byte(message), 0644)
 }
