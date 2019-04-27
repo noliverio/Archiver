@@ -42,8 +42,15 @@ type Episode struct {
 }
 
 func main() {
-	rss_file := os.Args[1]
-	episodes := parse_rss_file(rss_file)
+	flags := get_flags()
+	rss_file := get_rss_file(flags)
+	if rss_file == "nil" {
+		fmt.Println("wat!")
+	}
+	if flags == nil {
+		fmt.Println("wat!")
+	}
+	episodes := parse_rss_file(rss_file, flags)
 	var wait sync.WaitGroup
 
 	for _, episode := range episodes {
@@ -54,32 +61,31 @@ func main() {
 	wait.Wait()
 }
 
-// Sometimes the rss files can give conflicting data
-func modify_rss_file_data(rss_file_content []byte, use_itunes_title bool, use_itunes_season bool) []byte {
+// Sometimes the rss files can give conflicting data so I need a way to manage what information comes from which fields.
+func modify_rss_file_data(rss_file_content []byte, flags map[string]bool) []byte {
 	rss_file_string := string(rss_file_content)
-	if use_itunes_title {
-		modified_rss_string = strings.Replace(rss_file_string, "<title>", "<junktitle>", -1)
-		modified_rss_string = strings.Replace(rss_file_string, "itunes:title", "title", -1)
+	if flags["itunes_title"] {
+		rss_file_string = strings.Replace(rss_file_string, "<title>", "<junktitle>", -1)
+		rss_file_string = strings.Replace(rss_file_string, "itunes:title", "title", -1)
 	}
 
-	if use_itunes_season {
-		modified_rss_string := strings.Replace(rss_file_string, "<season>", "<junkseason>", -1)
-		modified_rss_string = strings.Replace(rss_file_string, "itunes:season", "season", -1)
+	if flags["itunes_season"] {
+		rss_file_string = strings.Replace(rss_file_string, "<season>", "<junkseason>", -1)
+		rss_file_string = strings.Replace(rss_file_string, "itunes:season", "season", -1)
 	}
 
-	modified_rss_feed := []byte(modified_rss_string)
+	modified_rss_file := []byte(rss_file_string)
 
-	return modified_rss_feed
+	return modified_rss_file
 }
 
-func parse_rss_file(rss_file string) []Episode {
+func parse_rss_file(rss_file string, flags map[string]bool) []Episode {
 	feed := rss_feed{}
 	rss_file_content, err := ioutil.ReadFile(rss_file)
 	if err != nil {
 		panic(err)
 	}
-	// TODO: impliment cli switchs to allow the user to control this line.
-	modified_rss_feed := modify_rss_file_data(rss_file_content, true, true)
+	modified_rss_feed := modify_rss_file_data(rss_file_content, flags)
 
 	decoder := xml.NewDecoder(bytes.NewReader([]byte(modified_rss_feed)))
 	err = decoder.Decode(&feed)
