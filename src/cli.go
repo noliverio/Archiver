@@ -41,9 +41,9 @@ Usage:
 	archiver <feed.xml> [flags]
 
 Optional flags:
-	--itunes_title		Title from iTunes section of rss file is used instead of standard title field.
-	--itunes_season		Season from iTunes section of rss file is used instead of standard season field.
-	--net_rss		RSS file is retrieved over the network.
+	--itunes-title		Title from iTunes section of rss file is used instead of standard title field.
+	--itunes-season		Season from iTunes section of rss file is used instead of standard season field.
+	--net-rss		RSS file is retrieved over the network.
 `)
 	os.Exit(0)
 }

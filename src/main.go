@@ -44,12 +44,6 @@ type Episode struct {
 func main() {
 	flags := get_flags()
 	rss_file := get_rss_file(flags)
-	if rss_file == "nil" {
-		fmt.Println("wat!")
-	}
-	if flags == nil {
-		fmt.Println("wat!")
-	}
 	episodes := parse_rss_file(rss_file, flags)
 	var wait sync.WaitGroup
 
@@ -98,7 +92,6 @@ func parse_rss_file(rss_file string, flags map[string]bool) []Episode {
 
 	for _, item := range episodes {
 		this_episode := Episode{title: item.Title, url: item.RSS_Enclosure.Url, season: item.Season}
-		fmt.Println(this_episode.title)
 		episode_slice = append(episode_slice, this_episode)
 	}
 	return episode_slice

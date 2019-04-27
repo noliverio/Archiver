@@ -1,6 +1,6 @@
 GOCMD=go
 GOBUILD=$(GOCMD) build 
-BUILDPATH=src/main.go
+BUILDPATH=src/main.go src/cli.go
 GOTEST=$(GOCMD) test
 GOGET=$(GOCMD) get
 BINARY_NAME=archiver
