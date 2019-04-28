@@ -101,15 +101,23 @@ func parse_rss_file(rss_file string, flags map[string]bool) []Episode {
 	return episode_slice
 }
 
+// Some basic error handeling and go routine management in a wrapper for download_episode()
 func download_wrapper(episode Episode, wait *sync.WaitGroup) {
-	err := download_episode(episode, wait)
-	if err != nil {
-		fmt.Println(err)
+	defer wait.Done()
+	retries := 5
+	iters := 0
+	for iters <= retries {
+		err := download_episode(episode)
+		if err != nil {
+			iters += 1
+		} else {
+			return
+		}
 	}
+	fmt.Println("Failed to download %s", episode.title)
 }
 
-func download_episode(episode Episode, wait *sync.WaitGroup) error {
-	defer wait.Done()
+func download_episode(episode Episode) error {
 	resp, err := http.Get(episode.url)
 	if err != nil {
 		return err
