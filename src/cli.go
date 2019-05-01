@@ -25,12 +25,8 @@ func get_rss_file(flags map[string]bool) string {
 	var rss_file string
 	var err error
 	if flags["net-rss"] {
-		fmt.Println("Net based rss xml files now supported")
-		//	os.Exit(1)
-		//}
 		rss_file, err = download_rss_file(os.Args[1])
 		if err != nil {
-			fmt.Println(1)
 			fmt.Println(err)
 		}
 	} else {
