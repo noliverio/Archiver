@@ -23,9 +23,16 @@ func get_flags() map[string]bool {
 
 func get_rss_file(flags map[string]bool) string {
 	var rss_file string
-	if flags["net_rss"] {
-		fmt.Println("Net based rss xml files not currently supported")
-		os.Exit(1)
+	var err error
+	if flags["net-rss"] {
+		fmt.Println("Net based rss xml files now supported")
+		//	os.Exit(1)
+		//}
+		rss_file, err = download_rss_file(os.Args[1])
+		if err != nil {
+			fmt.Println(1)
+			fmt.Println(err)
+		}
 	} else {
 		rss_file = os.Args[1]
 	}
@@ -43,6 +50,9 @@ Optional flags:
 	--itunes-title		Title from iTunes section of rss file is used instead of standard title field.
 	--itunes-season		Season from iTunes section of rss file is used instead of standard season field.
 	--net-rss		RSS file is retrieved over the network.
+
+net-rss useage:
+	archiver <http.example.com/feed.xml> --net-rss
 `)
 	os.Exit(0)
 }

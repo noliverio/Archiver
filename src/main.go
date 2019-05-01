@@ -129,6 +129,9 @@ func download_episode(episode Episode) error {
 	out_file := fmt.Sprintf("season%d/%s.mp3", episode.season, episode.title)
 	verify_directory(episode.season)
 	err = ioutil.WriteFile(out_file, body, 0644)
+	if err != nil {
+		return err
+	}
 	return nil
 }
 
@@ -142,4 +145,34 @@ func add_date_file(rss_file string) {
 	date_file := "README"
 	message := fmt.Sprintf("This archive created from %s at %v", rss_file, date)
 	ioutil.WriteFile(date_file, []byte(message), 0644)
+}
+
+func download_rss_file(feed_url string) (string, error) {
+	fmt.Println(6)
+	fmt.Println(feed_url)
+	resp, err := http.Get(feed_url)
+	if err != nil {
+		fmt.Println(2)
+		return "", err
+	}
+	fmt.Println(7)
+	if resp.StatusCode != 200 {
+		return "", fmt.Errorf("Could not get rss feed file")
+	}
+	fmt.Println(8)
+	content, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		fmt.Println(3)
+		return "", err
+	}
+	fmt.Println(9)
+	out_file := strings.SplitAfter(feed_url, "/")[len(strings.SplitAfter(feed_url, "/"))-1]
+	err = ioutil.WriteFile(out_file, content, 0644)
+	if err != nil {
+		fmt.Println(4)
+		return "", err
+	}
+	fmt.Println(5)
+	return out_file, nil
+
 }
